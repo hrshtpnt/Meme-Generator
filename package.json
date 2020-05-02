@@ -1,0 +1,26 @@
+{
+  "name": "meme-generator",
+  "version": "1.0.0",
+  "description": "This app can be used to easily create meme and share them with friends.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrshtpnt/Meme-Generator.git"
+  },
+  "keywords": [
+    "meme",
+    "react-app",
+    "meme-generator",
+    "generator",
+    "memeGeneratorAPI"
+  ],
+  "author": "Harshit Pant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrshtpnt/Meme-Generator/issues"
+  },
+  "homepage": "https://github.com/hrshtpnt/Meme-Generator#readme"
+}
