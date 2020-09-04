@@ -1,0 +1,15 @@
+.rectangle {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  width: 24px;
+  height: 24px;
+  margin: 0 4px;
+  border: 1px solid black;
+}
+
+label {
+  clear: left;
+  text-align: right;
+  padding-right: 10px;
+}

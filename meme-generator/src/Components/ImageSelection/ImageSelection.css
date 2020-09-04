@@ -1,0 +1,50 @@
+.image-selection-div {
+  display: block;
+  height: 80vh;
+  overflow: auto;
+  margin: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.card-layout {
+  width: 150px;
+  display: inline-block;
+  margin: 2px;
+  margin-bottom: 10px;
+}
+.card-name-link {
+  font-size: 14px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-family: sans-serif;
+  color: #007bff;
+}
+.image-small {
+  height: 150px;
+  padding: 2px;
+  width: 150px;
+  padding: 0.25rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  max-width: 100%;
+}
+
+.image-selection-div img {
+  margin-top: 8px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.image-selection-div img:hover {
+  border: 1px solid #333;
+  box-shadow: 0 8px 14px 0 grey;
+  color: grey;
+}
+
+.active {
+  border: 1px solid #333;
+  box-shadow: 0 8px 14px 0 grey;
+  color: #333;
+}
