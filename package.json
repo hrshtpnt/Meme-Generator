@@ -12,14 +12,14 @@
     "react-history": "^0.18.2",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^3.4.3",
+    "react-scripts": "^5.0.1",
     "react-select": "^3.1.0",
     "react-toast-notifications": "^2.4.0",
     "watch": "^1.0.2"
   },
   "devDependencies": {
-    "html-webpack-plugin": "^4.5.0",
-    "webpack": "^4.44.2",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^3.11.0"
   },
   "scripts": {
